@@ -57,7 +57,7 @@
         "InputType":"password",
         "ParamFieldName":"ServerKey",
         "DefaultValue":"",
-        "Required":true,
+        "Required":false,
         "EnumValues":{}
     },
     {
